@@ -1,0 +1,394 @@
+============================================================
+BENCHMARK QUERY RESULTS
+============================================================
+
+QUERY: 'stock'
+  Matches: 1388 documents
+  Cold Cache Latency: 3.014 ms
+  Warm Cache Latency: 2.208 ms
+  Top Document Hits:
+    - DocID 0: Positions [234]
+    - DocID 31: Positions [166]
+    - DocID 32: Positions [33]
+--------------------------------------------------
+QUERY: 'market'
+  Matches: 1443 documents
+  Cold Cache Latency: 2.555 ms
+  Warm Cache Latency: 44.189 ms
+  Top Document Hits:
+    - DocID 0: Positions [563]
+    - DocID 4: Positions [92]
+    - DocID 11: Positions [78, 99, 215, 230, 234]
+--------------------------------------------------
+QUERY: 'bank'
+  Matches: 1338 documents
+  Cold Cache Latency: 2.518 ms
+  Warm Cache Latency: 2.567 ms
+  Top Document Hits:
+    - DocID 4: Positions [159]
+    - DocID 9: Positions [1, 9, 25, 36, 58, 86, 173, 197, 274, 297, 468, 529]
+    - DocID 11: Positions [38]
+--------------------------------------------------
+QUERY: 'federal'
+  Matches: 573 documents
+  Cold Cache Latency: 0.831 ms
+  Warm Cache Latency: 0.779 ms
+  Top Document Hits:
+    - DocID 9: Positions [306]
+    - DocID 78: Positions [251, 317]
+    - DocID 115: Positions [7, 82]
+--------------------------------------------------
+QUERY: 'reserve'
+  Matches: 372 documents
+  Cold Cache Latency: 0.489 ms
+  Warm Cache Latency: 0.481 ms
+  Top Document Hits:
+    - DocID 9: Positions [307]
+    - DocID 11: Positions [166]
+    - DocID 15: Positions [28]
+--------------------------------------------------
+QUERY: 'interest'
+  Matches: 839 documents
+  Cold Cache Latency: 1.365 ms
+  Warm Cache Latency: 1.241 ms
+  Top Document Hits:
+    - DocID 0: Positions [590]
+    - DocID 6: Positions [265]
+    - DocID 11: Positions [235]
+--------------------------------------------------
+QUERY: 'rates'
+  Matches: 563 documents
+  Cold Cache Latency: 0.941 ms
+  Warm Cache Latency: 0.907 ms
+  Top Document Hits:
+    - DocID 11: Positions [236]
+    - DocID 32: Positions [30, 103, 187, 401]
+    - DocID 52: Positions [118, 305, 404]
+--------------------------------------------------
+QUERY: 'business'
+  Matches: 624 documents
+  Cold Cache Latency: 0.874 ms
+  Warm Cache Latency: 0.836 ms
+  Top Document Hits:
+    - DocID 0: Positions [181]
+    - DocID 3: Positions [31, 53]
+    - DocID 9: Positions [208, 266, 318, 402, 452, 489, 523, 630]
+--------------------------------------------------
+QUERY: 'corporate'
+  Matches: 122 documents
+  Cold Cache Latency: 0.179 ms
+  Warm Cache Latency: 0.178 ms
+  Top Document Hits:
+    - DocID 78: Positions [26]
+    - DocID 123: Positions [466]
+    - DocID 248: Positions [127]
+--------------------------------------------------
+QUERY: 'financial'
+  Matches: 664 documents
+  Cold Cache Latency: 0.882 ms
+  Warm Cache Latency: 0.932 ms
+  Top Document Hits:
+    - DocID 0: Positions [702]
+    - DocID 9: Positions [37, 143, 247]
+    - DocID 33: Positions [352]
+--------------------------------------------------
+QUERY: 'investment'
+  Matches: 673 documents
+  Cold Cache Latency: 0.955 ms
+  Warm Cache Latency: 1.235 ms
+  Top Document Hits:
+    - DocID 9: Positions [273, 426]
+    - DocID 18: Positions [46]
+    - DocID 19: Positions [243]
+--------------------------------------------------
+QUERY: 'bonds'
+  Matches: 84 documents
+  Cold Cache Latency: 0.383 ms
+  Warm Cache Latency: 0.251 ms
+  Top Document Hits:
+    - DocID 32: Positions [102, 362]
+    - DocID 197: Positions [55, 82]
+    - DocID 341: Positions [2]
+--------------------------------------------------
+QUERY: 'equity'
+  Matches: 200 documents
+  Cold Cache Latency: 0.358 ms
+  Warm Cache Latency: 0.298 ms
+  Top Document Hits:
+    - DocID 12: Positions [181]
+    - DocID 46: Positions [292]
+    - DocID 102: Positions [64]
+--------------------------------------------------
+QUERY: 'dividend'
+  Matches: 647 documents
+  Cold Cache Latency: 0.996 ms
+  Warm Cache Latency: 0.883 ms
+  Top Document Hits:
+    - DocID 15: Positions [104]
+    - DocID 25: Positions [4, 49]
+    - DocID 37: Positions [4, 14, 62]
+--------------------------------------------------
+QUERY: 'yield'
+  Matches: 93 documents
+  Cold Cache Latency: 0.161 ms
+  Warm Cache Latency: 0.141 ms
+  Top Document Hits:
+    - DocID 111: Positions [11, 164, 217]
+    - DocID 141: Positions [286, 332]
+    - DocID 326: Positions [71]
+--------------------------------------------------
+QUERY: 'japan'
+  Matches: 661 documents
+  Cold Cache Latency: 1.250 ms
+  Warm Cache Latency: 1.266 ms
+  Top Document Hits:
+    - DocID 0: Positions [7, 17, 53, 123, 267, 388, 405, 441, 467, 588, 642, 665, 739]
+    - DocID 2: Positions [0, 145]
+    - DocID 9: Positions [21, 413]
+--------------------------------------------------
+QUERY: 'tokyo'
+  Matches: 166 documents
+  Cold Cache Latency: 0.264 ms
+  Warm Cache Latency: 0.242 ms
+  Top Document Hits:
+    - DocID 0: Positions [91, 238]
+    - DocID 9: Positions [133]
+    - DocID 43: Positions [6]
+--------------------------------------------------
+QUERY: 'london'
+  Matches: 253 documents
+  Cold Cache Latency: 0.360 ms
+  Warm Cache Latency: 0.338 ms
+  Top Document Hits:
+    - DocID 29: Positions [6]
+    - DocID 39: Positions [52]
+    - DocID 48: Positions [73]
+--------------------------------------------------
+QUERY: 'international'
+  Matches: 1017 documents
+  Cold Cache Latency: 1.433 ms
+  Warm Cache Latency: 1.412 ms
+  Top Document Hits:
+    - DocID 0: Positions [744]
+    - DocID 2: Positions [11]
+    - DocID 4: Positions [91]
+--------------------------------------------------
+QUERY: 'growth'
+  Matches: 526 documents
+  Cold Cache Latency: 0.941 ms
+  Warm Cache Latency: 0.844 ms
+  Top Document Hits:
+    - DocID 3: Positions [108, 146]
+    - DocID 13: Positions [36]
+    - DocID 18: Positions [5, 180, 191]
+--------------------------------------------------
+QUERY: 'wall street'
+  Matches: 81 documents
+  Cold Cache Latency: 0.357 ms
+  Warm Cache Latency: 0.329 ms
+  N-Gram Lookup Latency: 0.114 ms
+  Top Document Hits:
+    - DocID 32: Positions [615]
+    - DocID 166: Positions [119]
+    - DocID 210: Positions [304]
+--------------------------------------------------
+QUERY: 'stock market'
+  Matches: 40 documents
+  Cold Cache Latency: 5.887 ms
+  Warm Cache Latency: 5.639 ms
+  N-Gram Lookup Latency: 0.085 ms
+  Top Document Hits:
+    - DocID 32: Positions [33]
+    - DocID 33: Positions [179]
+    - DocID 172: Positions [25]
+--------------------------------------------------
+QUERY: 'interest rates'
+  Matches: 239 documents
+  Cold Cache Latency: 2.950 ms
+  Warm Cache Latency: 3.060 ms
+  N-Gram Lookup Latency: 0.385 ms
+  Top Document Hits:
+    - DocID 11: Positions [235]
+    - DocID 32: Positions [29, 186]
+    - DocID 52: Positions [117]
+--------------------------------------------------
+QUERY: 'federal reserve'
+  Matches: 215 documents
+  Cold Cache Latency: 1.714 ms
+  Warm Cache Latency: 1.788 ms
+  N-Gram Lookup Latency: 0.263 ms
+  Top Document Hits:
+    - DocID 9: Positions [306]
+    - DocID 78: Positions [251, 317]
+    - DocID 115: Positions [7]
+--------------------------------------------------
+QUERY: 'united states'
+  Matches: 407 documents
+  Cold Cache Latency: 2.343 ms
+  Warm Cache Latency: 2.314 ms
+  N-Gram Lookup Latency: 0.588 ms
+  Top Document Hits:
+    - DocID 18: Positions [426]
+    - DocID 19: Positions [169]
+    - DocID 32: Positions [18, 153, 703]
+--------------------------------------------------
+QUERY: 'new york'
+  Matches: 361 documents
+  Cold Cache Latency: 3.809 ms
+  Warm Cache Latency: 4.316 ms
+  N-Gram Lookup Latency: 0.506 ms
+  Top Document Hits:
+    - DocID 31: Positions [109]
+    - DocID 43: Positions [87]
+    - DocID 80: Positions [11, 179]
+--------------------------------------------------
+QUERY: 'dow jones'
+  Matches: 6 documents
+  Cold Cache Latency: 0.164 ms
+  Warm Cache Latency: 0.108 ms
+  N-Gram Lookup Latency: 0.019 ms
+  Top Document Hits:
+    - DocID 175: Positions [0, 13]
+    - DocID 182: Positions [0]
+    - DocID 689: Positions [248]
+--------------------------------------------------
+QUERY: 'balance sheet'
+  Matches: 47 documents
+  Cold Cache Latency: 0.608 ms
+  Warm Cache Latency: 0.578 ms
+  N-Gram Lookup Latency: 0.100 ms
+  Top Document Hits:
+    - DocID 444: Positions [192]
+    - DocID 635: Positions [70]
+    - DocID 1519: Positions [42]
+--------------------------------------------------
+QUERY: 'economic growth'
+  Matches: 112 documents
+  Cold Cache Latency: 2.363 ms
+  Warm Cache Latency: 2.340 ms
+  N-Gram Lookup Latency: 0.173 ms
+  Top Document Hits:
+    - DocID 33: Positions [700]
+    - DocID 52: Positions [32]
+    - DocID 250: Positions [21, 92, 171]
+--------------------------------------------------
+QUERY: 'central bank'
+  Matches: 326 documents
+  Cold Cache Latency: 4.186 ms
+  Warm Cache Latency: 4.222 ms
+  N-Gram Lookup Latency: 0.476 ms
+  Top Document Hits:
+    - DocID 4: Positions [158]
+    - DocID 11: Positions [37]
+    - DocID 43: Positions [30]
+--------------------------------------------------
+QUERY: 'foreign exchange'
+  Matches: 225 documents
+  Cold Cache Latency: 3.486 ms
+  Warm Cache Latency: 3.368 ms
+  N-Gram Lookup Latency: 0.336 ms
+  Top Document Hits:
+    - DocID 0: Positions [315]
+    - DocID 23: Positions [194]
+    - DocID 83: Positions [32]
+--------------------------------------------------
+QUERY: 'trade deficit'
+  Matches: 173 documents
+  Cold Cache Latency: 3.646 ms
+  Warm Cache Latency: 3.563 ms
+  N-Gram Lookup Latency: 0.276 ms
+  Top Document Hits:
+    - DocID 3: Positions [1, 9]
+    - DocID 52: Positions [70]
+    - DocID 169: Positions [294]
+--------------------------------------------------
+QUERY: 'prime rate'
+  Matches: 61 documents
+  Cold Cache Latency: 2.201 ms
+  Warm Cache Latency: 2.163 ms
+  N-Gram Lookup Latency: 0.113 ms
+  Top Document Hits:
+    - DocID 871: Positions [291]
+    - DocID 985: Positions [51, 92, 115, 133, 170, 181, 207, 226, 236, 321, 706]
+    - DocID 1209: Positions [19]
+--------------------------------------------------
+QUERY: 'bull market'
+  Matches: 1 documents
+  Cold Cache Latency: 2.664 ms
+  Warm Cache Latency: 2.637 ms
+  N-Gram Lookup Latency: 0.054 ms
+  Top Document Hits:
+    - DocID 3987: Positions [337]
+--------------------------------------------------
+QUERY: 'bear market'
+  Matches: 1 documents
+  Cold Cache Latency: 2.834 ms
+  Warm Cache Latency: 2.762 ms
+  N-Gram Lookup Latency: 0.023 ms
+  Top Document Hits:
+    - DocID 3987: Positions [62]
+--------------------------------------------------
+QUERY: 'money supply'
+  Matches: 131 documents
+  Cold Cache Latency: 1.794 ms
+  Warm Cache Latency: 1.788 ms
+  N-Gram Lookup Latency: 0.211 ms
+  Top Document Hits:
+    - DocID 52: Positions [123, 249, 344]
+    - DocID 212: Positions [7, 17]
+    - DocID 215: Positions [28, 105]
+--------------------------------------------------
+QUERY: 'stock market crash'
+  Matches: 2 documents
+  Cold Cache Latency: 5.579 ms
+  Warm Cache Latency: 5.633 ms
+  N-Gram Lookup Latency: 0.076 ms
+  Top Document Hits:
+    - DocID 1997: Positions [670]
+    - DocID 2703: Positions [29]
+--------------------------------------------------
+QUERY: 'federal reserve board'
+  Matches: 71 documents
+  Cold Cache Latency: 3.165 ms
+  Warm Cache Latency: 3.233 ms
+  N-Gram Lookup Latency: 0.106 ms
+  Top Document Hits:
+    - DocID 9: Positions [306]
+    - DocID 78: Positions [251]
+    - DocID 215: Positions [15]
+--------------------------------------------------
+QUERY: 'united states dollar'
+  Matches: 0 documents
+  Cold Cache Latency: 3.854 ms
+  Warm Cache Latency: 3.743 ms
+  N-Gram Lookup Latency: 0.000 ms
+--------------------------------------------------
+QUERY: 'consumer price index'
+  Matches: 31 documents
+  Cold Cache Latency: 2.620 ms
+  Warm Cache Latency: 2.572 ms
+  N-Gram Lookup Latency: 0.059 ms
+  Top Document Hits:
+    - DocID 903: Positions [41]
+    - DocID 1085: Positions [13]
+    - DocID 1215: Positions [11]
+--------------------------------------------------
+QUERY: 'wall street journal'
+  Matches: 2 documents
+  Cold Cache Latency: 0.394 ms
+  Warm Cache Latency: 0.375 ms
+  N-Gram Lookup Latency: 0.063 ms
+  Top Document Hits:
+    - DocID 1920: Positions [37]
+    - DocID 9731: Positions [77]
+--------------------------------------------------
+QUERY: 'new york times'
+  Matches: 14 documents
+  Cold Cache Latency: 4.050 ms
+  Warm Cache Latency: 4.692 ms
+  N-Gram Lookup Latency: 0.047 ms
+  Top Document Hits:
+    - DocID 1157: Positions [96]
+    - DocID 1934: Positions [11, 58]
+    - DocID 2718: Positions [0]
+--------------------------------------------------
