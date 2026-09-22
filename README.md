@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" src="https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161" alt="Positional Inverted Index">
+<img width="250" src="https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161" alt="Positional Inverted Index">
 
 # Positional Inverted Index with N-Gram Extension
 
