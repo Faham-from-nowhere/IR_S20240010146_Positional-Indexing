@@ -1,10 +1,15 @@
+<img width="1254" height="1254" alt="boog" src="https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161" />
+
+
 # Positional Inverted Index with N-Gram Extension
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-Reuters-154F5C)
+![Information Retrieval](https://img.shields.io/badge/Domain-Information%20Retrieval-8A2BE2)
+![Positional Index](https://img.shields.io/badge/Index-Positional%20Inverted-orange)
+![N-Gram](https://img.shields.io/badge/N--gram-1--3-blue)
+![Variable Byte](https://img.shields.io/badge/Compression-Variable--Byte-green)
 </div>
 
 **A disk-backed, compressed, positional inverted index over the NLTK Reuters corpus, extended with direct bigram/trigram phrase lookup.**
