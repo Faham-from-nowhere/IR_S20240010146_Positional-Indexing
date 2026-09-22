@@ -578,6 +578,9 @@ The trade-off is bounded by the maximum n-gram order actually indexed: phrases o
 
 ---
 
+<img width="854" height="661" alt="image" src="https://github.com/user-attachments/assets/7aaf69f8-d7de-4267-81f1-59626a9d7a98" />
+
+
 ## 17. Known Limitations
 
 1. The entire index is built in memory (`Dict[Term] -> Dict[DocID] -> List[Position]`) before anything is flushed to disk — there is no streaming/external-sort construction path, so peak build-time memory scales with the full corpus.
