@@ -1,8 +1,13 @@
 # Positional Inverted Index with N-Gram Extension
 
-**A disk-backed, compressed, positional inverted index over the NLTK Reuters corpus, extended with direct bigram/trigram phrase lookup.**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</div>
 
-Source: `positional_index.py`
+**A disk-backed, compressed, positional inverted index over the NLTK Reuters corpus, extended with direct bigram/trigram phrase lookup.**
 
 ---
 
