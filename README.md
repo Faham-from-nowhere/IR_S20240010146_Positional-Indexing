@@ -1,9 +1,6 @@
-<img width="350" height="350" alt="boog" src="https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161" />
-
-
 <div align="center">
 
-<img width="500" src="YOUR_LOGO_URL" alt="Positional Inverted Index">
+<img width="500" src="[YOUR_LOGO_URL](https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161)" alt="Positional Inverted Index">
 
 # Positional Inverted Index with N-Gram Extension
 
