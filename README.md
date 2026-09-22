@@ -1,19 +1,24 @@
-<img width="1254" height="1254" alt="boog" src="https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161" />
+<img width="350" height="350" alt="boog" src="https://github.com/user-attachments/assets/43c1338c-bbb9-4a1a-8dcf-134ce55fa161" />
 
+
+<div align="center">
+
+<img width="500" src="YOUR_LOGO_URL" alt="Positional Inverted Index">
 
 # Positional Inverted Index with N-Gram Extension
 
-<div align="center">
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-Reuters-154F5C)
-![Information Retrieval](https://img.shields.io/badge/Domain-Information%20Retrieval-8A2BE2)
-![Positional Index](https://img.shields.io/badge/Index-Positional%20Inverted-orange)
-![N-Gram](https://img.shields.io/badge/N--gram-1--3-blue)
-![Variable Byte](https://img.shields.io/badge/Compression-Variable--Byte-green)
+<p>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NLTK-Reuters-154F5C" alt="NLTK">
+  <img src="https://img.shields.io/badge/Domain-Information%20Retrieval-8A2BE2" alt="Information Retrieval">
+  <img src="https://img.shields.io/badge/Index-Positional%20Inverted-orange" alt="Positional Index">
+  <img src="https://img.shields.io/badge/N--gram-1--3-blue" alt="N-Gram">
+  <img src="https://img.shields.io/badge/Compression-Variable--Byte-green" alt="Variable Byte">
+</p>
+
+**A disk-backed, compressed positional inverted index over the NLTK Reuters corpus, extended with direct bigram/trigram phrase lookup.**
+
 </div>
-
-**A disk-backed, compressed, positional inverted index over the NLTK Reuters corpus, extended with direct bigram/trigram phrase lookup.**
-
 ---
 
 ## Table of Contents
